@@ -1,4 +1,4 @@
-![Chetan Pandey](https://github.com/chetanpandey1266/chetanpandey1266/blob/master/hi.jpeg)
+## Hi I am Chetan :wave:
 
 <!--
 **chetanpandey1266/chetanpandey1266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
