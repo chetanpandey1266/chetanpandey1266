@@ -1,4 +1,4 @@
-### Hi there 👋
+![Chetan Pandey](https://github.com/chetanpandey1266/chetanpandey1266/blob/master/img1.png)
 
 <!--
 **chetanpandey1266/chetanpandey1266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
