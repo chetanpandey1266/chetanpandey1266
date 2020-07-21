@@ -1,5 +1,10 @@
    ![Chetan](https://github.com/chetanpandey1266/chetanpandey1266/blob/master/intro1.gif)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/chetanpandey1266/chetanpandey1266/blob/master/intro1.gif">
+</p>
+
+
 <!--
 **chetanpandey1266/chetanpandey1266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
