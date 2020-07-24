@@ -8,10 +8,8 @@
 <div>
   <h1> Hi! I am Chetan </h1>
   <span>
-    <i class="fab fa-facebook-square"></i>
-    <img src="" alt="Linkedin">
-    <img src="" alt="Github">
-    <img src="" alt="Mail">
+    <a href=""><img src="" alt="Linkedin"></a>
+    <a href=""><img src="" alt="Facebook"></a>
    </span>
   
 </div>
