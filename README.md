@@ -1,20 +1,19 @@
 
-<!--
+
 <p align="center">
   <img width="1000" height="500" src="https://github.com/chetanpandey1266/chetanpandey1266/blob/master/intro1.gif">
 </p>
--->
 
+
+<!--
 <div>
-  <h1> Hi! I am Chetan </h1>
+  <h1> Hi! I am Chetan :wave: </h1>
   <span>
-    <a href="#" height=20px width=20px><img src="https://github.com/chetanpandey1266/chetanpandey1266/blob/master/icons/linkedin.png" alt="Linkedin"></a>
-    <a href="#"  height=20px width=20px><img src="https://github.com/chetanpandey1266/chetanpandey1266/blob/master/icons/facebook.png" alt="Facebook"></a>
+    <a href="#"><img src="https://github.com/chetanpandey1266/chetanpandey1266/blob/master/icons/linkedin.png" alt="Linkedin"></a>
+    <a href="#"><img src="https://github.com/chetanpandey1266/chetanpandey1266/blob/master/icons/facebook.png" alt="Facebook"></a>
    </span>
-  
 </div>
-
-
+-->
 
 
 
