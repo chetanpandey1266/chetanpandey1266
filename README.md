@@ -8,8 +8,8 @@
 <div>
   <h1> Hi! I am Chetan </h1>
   <span>
-    <a href=""><img src="https://github.com/chetanpandey1266/chetanpandey1266/tree/master/icons/linkedin.png" alt="Linkedin"></a>
-    <a href=""><img src="https://github.com/chetanpandey1266/chetanpandey1266/tree/master/icons/facebook.png" alt="Facebook"></a>
+    <a href="#"><img src="https://github.com/chetanpandey1266/chetanpandey1266/blob/master/icons/facebook.png" alt="Linkedin"></a>
+    <a href="#"><img src="https://github.com/chetanpandey1266/chetanpandey1266/tree/master/icons/facebook.png" alt="Facebook"></a>
    </span>
   
 </div>
