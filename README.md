@@ -1,5 +1,5 @@
 <p align="center">
-![Hi! I am Chetan](https://github.com/chetanpandey1266/chetanpandey1266/blob/master/intro1.gif)
+  <img src="https://github.com/chetanpandey1266/chetanpandey1266/blob/master/intro1.gif" alt="Hi I'm Chetan">
 </p>
 <!--
 <div>
