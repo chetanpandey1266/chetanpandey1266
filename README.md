@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="1000" height="500" src="https://github.com/chetanpandey1266/chetanpandey1266/blob/master/intro1.gif">
+  <h1>Hello! I'm Chetan</h1>
 </p>
 
 
