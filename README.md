@@ -3,7 +3,11 @@
 <center>
   <h1>Hello! I'm Chetan</h1>
 </center>
-<h2> An Enthusiast Programmer<h2>
+
+<div>
+  <h2> An Enthusiast Programmer<h2>
+</div>
+
 <div>
   <h3> Things I do </h3>
   <ul>
@@ -14,11 +18,7 @@
   </ul>
 </div>
   
-<div>
-  
-  
-  
-</div>
+
 
 <!--
 <div>
