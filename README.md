@@ -1,9 +1,24 @@
 
 
-<p align="center">
+<center>
   <h1>Hello! I'm Chetan</h1>
-</p>
-
+</center>
+<h2> An Enthusiast Programmer<h2>
+<div>
+  <h3> Things I do </h3>
+  <ul>
+    <li> Machine Learning </li>
+    <li> Computer Vision </li>
+    <li> FrontEnd Development </li>
+    <li> Competitive Coding </li>
+  </ul>
+</div>
+  
+<div>
+  
+  
+  
+</div>
 
 <!--
 <div>
