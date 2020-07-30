@@ -5,7 +5,7 @@
 </center>
 
 
-                                                           <h2> An Enthusiast Programmer<h2>
+<h2> An Enthusiast Programmer<h2>
 
 <div>
   <h3> Things I do </h3>
