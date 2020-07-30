@@ -1,6 +1,6 @@
-
-![Chetan](https://github.com/chetanpandey1266/chetanpandey1266/blob/master/intro1.gif)
-
+<p align="center">
+![Hi! I am Chetan](https://github.com/chetanpandey1266/chetanpandey1266/blob/master/intro1.gif)
+</p>
 <!--
 <div>
   <h1> Hi! I am Chetan :wave: </h1>
