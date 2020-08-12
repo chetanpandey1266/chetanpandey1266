@@ -7,5 +7,4 @@
 - 🌱 I’m currently learning Pytorch and React.🤓
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 📫 How to reach me:
-  [https://github.com/chetanpandey1266/chetanpandey1266/blob/master/icons/iconfinder_gmail_1220367.svg](chetan)
 - ⚡ Fun fact: ...
