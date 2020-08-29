@@ -12,47 +12,26 @@
 [<img align="left" alt="Chetan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](#)
 [<img align="left" alt="Chetan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
 [<img align="left" alt="Chetan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](#)
+</br>
 
 ### Languages And Tools
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-<br />
-[<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+[<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
+[<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)
+[<img alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">](#)
+[<img alt="jupyter" width="26px" src="https://4.bp.blogspot.com/-BD3ZGiGy9Ms/WuJdYMbSh3I/AAAAAAACPrc/jePCk-BAX_g3_BED91p_zFgqDBJ4lR_JQCLcBGAs/s1600/jupyter.png">](https://jupyter.org/)
+[<img alt="colab" width="28px" src="https://miro.medium.com/max/700/1*8N7xbq6ahVvWkEq_S5EhMA.jpeg">](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+[<img alt="pytorch" width="26px" src="https://api.iconify.design/logos-pytorch.svg?height=16">](https://pytorch.org/)
+[<img alt="fastai" width="30px" src="https://buzz-prod-photos.global.ssl.fastly.net/img/87a50dce-a64d-4747-b152-30f2f13e80ef">](https://www.fast.ai/)
+[<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />](https://reactjs.org/)
+[<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">](https://www.markdownguide.org/)
+[<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)
+[<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/)
+[<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">](https://ubuntu.com/)
+[<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
 
 
 
