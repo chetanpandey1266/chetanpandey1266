@@ -9,9 +9,9 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Chetan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](#)
-[<img align="left" alt="Chetan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](#)
-[<img align="left" alt="Chetan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](#)
+[<img align="left" alt="Chetan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/chetan.pandey.1656854/)
+[<img align="left" alt="Chetan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chetan-pandey-453850190/)
+[<img align="left" alt="Chetan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/06_chetan/?hl=en)
 </br>
 
 ### Languages And Tools
