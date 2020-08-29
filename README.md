@@ -1,10 +1,10 @@
 ## Hi There! I am Chetan 
 
-# I am a Undergrad Sudent and Developer
+# I am a Undergrad Sudent👨‍🎓 and Developer👨‍💻
 
 - 🔭 I’m currently working on Nothing new😅
 - 🌱 I’m currently learning Data Structures And Algorithms in C++.🤓
-- 👯 I’m looking to collaborate on Open Source Projects 
+- 👯 I’m looking to collaborate on Open Source Projects📓
 
 [<img src="https://user-images.githubusercontent.com/45101690/88816121-b13e9b00-d1d9-11ea-9679-13ffb74841ec.png" alt="programming" width="300" height="300"/>](https://github.com/chetanpandey1266) 
 
