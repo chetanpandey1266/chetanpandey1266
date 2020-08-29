@@ -1,4 +1,4 @@
-## Hi There! I am Chetan👋
+## Hi! I am Chetan👋
 
 # I am a Undergrad Sudent👨‍🎓 and Developer👨‍💻
 
