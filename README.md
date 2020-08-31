@@ -1,6 +1,6 @@
 ## Hi! I am Chetan👋
 
-# I am a Undergrad Sudent👨‍🎓 and Developer👨‍💻
+# I am an Undergrad Sudent👨‍🎓 and a Developer👨‍💻
 
 - 🔭 I’m currently working on Nothing new😅
 - 🌱 I’m currently learning Data Structures And Algorithms in C++.🤓
