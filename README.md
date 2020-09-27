@@ -38,7 +38,8 @@
 
 </br>
 <a href="https://github.com/chetanpandey1266">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chetanpandey1266&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img style="height=10rem; width=6rem" align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chetanpandey1266&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<p>       </p>
 
 <a href="https://github.com/chetanpandey1266">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chetanpandey1266&layout=compact&theme=radical" />
