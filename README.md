@@ -1,6 +1,6 @@
 ## Hi! I am Chetan👋
 
-# I am an Undergrad Sudent👨‍🎓 and a Developer👨‍💻
+# I am an Undergrad Student👨‍🎓 and a Developer👨‍💻
 
 - I’m currently pursuing majors in Electronics and Communication Engineering from IIT(ISM) Dhanbad 👨‍🎓
 - I’m currently learning Data Structures And Algorithms in C++.🤓
