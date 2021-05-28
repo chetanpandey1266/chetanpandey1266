@@ -39,7 +39,7 @@
 
 </br>
 <a href="https://github.com/chetanpandey1266">
-<img style="height=10rem; width=6rem" align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=chetanpandey1266&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark" /></a>
+<img style="height=10rem; width=6rem" align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chetanpandey1266&theme=onedark" /></a>
 <p>       </p>
 
 <a href="https://github.com/chetanpandey1266">
